@@ -1,0 +1,16 @@
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\bin\Debug\net8.0-windows\Tictactoe.exe
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\bin\Debug\net8.0-windows\Tictactoe.deps.json
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\bin\Debug\net8.0-windows\Tictactoe.runtimeconfig.json
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\bin\Debug\net8.0-windows\Tictactoe.dll
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\bin\Debug\net8.0-windows\Tictactoe.pdb
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\Tictactoe.csproj.GenerateResource.cache
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\Tictactoe.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\Tictactoe.AssemblyInfo.cs
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\Tictactoe.dll
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\refint\Tictactoe.dll
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\Tictactoe.pdb
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\Tictactoe.genruntimeconfig.cache
+C:\Users\Pedro\Documents\GitHub\TictactoeWinForms\WinFormsApp1\obj\Debug\net8.0-windows\ref\Tictactoe.dll
